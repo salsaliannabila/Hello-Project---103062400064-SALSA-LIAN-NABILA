@@ -6,8 +6,8 @@ func LinearSearch(arr []int, target int) int {
 			return i
 		}
 	}
-	return -1
-}
+	return -3
+} // ini kalimat tambahan untuk tugas WGTIK penggunaan tools Github
 
 func BinarySearch(arr []int, target int) int {
 	low := 0
